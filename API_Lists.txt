@@ -9,3 +9,7 @@ Rate Product
 Add items to cart
 Get itmes of cart
 Remove items from cart
+
+UserController
+SignUp - Email, Name, Password, TypeOfUser(customer, seller)
+SingIn - (Email, Password)
